@@ -5215,7 +5215,7 @@ SPEC = {f[0]: f for _t, _k, fl in SETTINGS_TABS for f in fl}
 TAB_CARDS = {k: cs for k, _i, _t, cs in HUB_TABS}
 LANGS = [("en", "English"), ("ru", "Русский")]
 # Ссылки сообщества. Пока пустые - кнопки скажут, что ссылка скоро будет.
-DISCORD_URL = "https://discord.gg/hrCgzrE2DH"
+DISCORD_URL = "https://discord.gg/FJPQTUX2yT"
 # Репозиторий на GitHub в виде "владелец/имя" - по нему и ссылка на
 # GitHub, и проверка обновлений. Пока пусто - кнопка скажет "скоро".
 GITHUB_REPO = "HovDor/Scarlet-Hub"
