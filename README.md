@@ -4,7 +4,7 @@
 
 <h1 align="center">Scarlet hub</h1>
 <p align="center">Fishing macro for <b>Fisch</b> (Roblox) &nbsp;·&nbsp;
-<a href="https://discord.gg/hrCgzrE2DH">Discord</a></p>
+<a href="https://discord.gg/FJPQTUX2yT">Discord</a></p>
 
 ---
 
